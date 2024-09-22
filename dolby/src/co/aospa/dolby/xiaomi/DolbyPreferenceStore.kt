@@ -4,13 +4,12 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package co.aospa.dolby.xiaomi.preference
+package co.aospa.dolby.xiaomi
 
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.preference.PreferenceDataStore
 import androidx.preference.PreferenceManager
-import co.aospa.dolby.xiaomi.DolbyConstants
 
 class DolbyPreferenceStore(
     private val context: Context
