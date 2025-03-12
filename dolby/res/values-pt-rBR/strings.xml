@@ -31,9 +31,9 @@
 
     <!-- Perfis Dolby -->
     <string name="dolby_profile_dynamic">Dinâmico</string>
-    <string name="dolby_profile_video">Filmes e Vídeos</string>
+    <string name="dolby_profile_video">Vídeos</string>
     <string name="dolby_profile_music">Músicas</string>
-    <string name="dolby_profile_voice">Voz</string>
+    <string name="dolby_profile_custom">Personalizado</string>
 
     <!-- Predefinições do equalizador Dolby -->
     <string name="dolby_preset_default">Plano (desligado)</string>
